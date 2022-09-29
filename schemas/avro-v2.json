@@ -1,0 +1,7 @@
+{
+    "type" : "record",
+    "name" : "userInfo",
+    "namespace" : "my.example",
+    "description": "Example user info record.",
+    "fields" : [{"name" : "age", "type" : "int"}]
+} 
